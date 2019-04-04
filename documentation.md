@@ -30,7 +30,7 @@
 - vFlexProps -> v-flex props list
 - vFlexWithProps -> v-flex with all props
 - vSpacer -> v-spacer component
-- vGridBreakpointObject -> Breakpoing object of Grid system
+- vGridBreakpointObject -> Breakpoint object of Grid system
 ### Spacing
 - vSpacing -> Spacing options
 ### Text alignment
